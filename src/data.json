@@ -5,7 +5,7 @@
       "title": "Dress 1",
       "description": "about dress 1",
       "price": 19,
-      "availableSizes": ["XL", "XXl"],
+      "availableSizes": ["XL", "XXl", "XS"],
       "image": "/images/dress1.jpeg"
     },
     {
@@ -45,7 +45,7 @@
       "title": "Dress 6",
       "description": "about dress 6",
       "price": 15.9,
-      "availableSizes": ["XL", "M", "L", "XXXL", "S", "M", "XXL"],
+      "availableSizes": ["XL", "M", "L", "S", "XXL"],
       "image": "/images/dress6.jpeg"
     }
   ]
